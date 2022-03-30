@@ -5,6 +5,7 @@
 <?php
 echo "<h1>This is my 1st Web App</h1>";
 ?>
+  <a href="<?php echo 'Hello.php'; ?>">NEXT PAGE</a>
 
 </body>
 </html>
